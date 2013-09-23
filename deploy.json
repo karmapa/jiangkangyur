@@ -1,0 +1,20 @@
+{
+	"files":[
+		"jiangkangyur/aura_components",
+		"jiangkangyur/css",
+		"jiangkangyur/index.js",
+		"jiangkangyur/index.html",
+		"jiangkangyur/package.json",
+		"jiangkangyur/config.json",
+		"jiangkangyur/LICENSE",
+		"jiangkangyur/README.md",
+		"jiangkangyur/jiangkangyur.ydb",
+		"kse/aura_components"
+	],
+	"darwin" :[
+		"jiangkangyur/run.command"
+	],
+	"win32" :[
+		"jiangkangyur/run.cmd"
+	]	
+}
