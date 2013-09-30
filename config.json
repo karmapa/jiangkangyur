@@ -1,4 +1,5 @@
 {
 	"db":"jiangkangyur",
-	"toc":"logical"
+	"toc":"logical",
+	"pagebreak":"pb[id]"
 }
